@@ -5,4 +5,8 @@
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.
 subdirs("gtest")
+subdirs("fe_urko")
+subdirs("rpi_ros_examples/rpi_feros_bringup")
+subdirs("rpi_ros_examples/rpi_msgs")
+subdirs("rpi_ros_examples/rpi_feros")
 subdirs("test1")

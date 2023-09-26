@@ -1,0 +1,8 @@
+prefix=/home/student/FEROS2023-dan0/FEROS_1/catkin_ws/devel
+
+Name: rpi_msgs
+Description: Description of rpi_msgs
+Version: 0.0.0
+Cflags: -I/home/student/FEROS2023-dan0/FEROS_1/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs

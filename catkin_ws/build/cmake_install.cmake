@@ -131,6 +131,10 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/student/FEROS2023-dan0/FEROS_1/catkin_ws/build/gtest/cmake_install.cmake")
+  include("/home/student/FEROS2023-dan0/FEROS_1/catkin_ws/build/fe_urko/cmake_install.cmake")
+  include("/home/student/FEROS2023-dan0/FEROS_1/catkin_ws/build/rpi_ros_examples/rpi_feros_bringup/cmake_install.cmake")
+  include("/home/student/FEROS2023-dan0/FEROS_1/catkin_ws/build/rpi_ros_examples/rpi_msgs/cmake_install.cmake")
+  include("/home/student/FEROS2023-dan0/FEROS_1/catkin_ws/build/rpi_ros_examples/rpi_feros/cmake_install.cmake")
   include("/home/student/FEROS2023-dan0/FEROS_1/catkin_ws/build/test1/cmake_install.cmake")
 
 endif()

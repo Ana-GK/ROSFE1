@@ -1,2 +1,2 @@
-test1
+fe_urko:rpi_ros_examples/rpi_feros:rpi_ros_examples/rpi_feros_bringup:rpi_ros_examples/rpi_msgs:test1
 -DCATKIN_DEVEL_PREFIX=/home/student/FEROS2023-dan0/FEROS_1/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/student/FEROS2023-dan0/FEROS_1/catkin_ws/install -G Unix Makefiles
